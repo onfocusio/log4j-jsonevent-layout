@@ -2,8 +2,8 @@ package net.logstash.log4j;
 
 import net.logstash.log4j.data.HostData;
 import net.minidev.json.JSONObject;
-import org.apache.commons.lang.StringUtils;
-import org.apache.commons.lang.time.FastDateFormat;
+import org.apache.commons.lang3.StringUtils;
+import org.apache.commons.lang3.time.FastDateFormat;
 import org.apache.log4j.Layout;
 import org.apache.log4j.helpers.LogLog;
 import org.apache.log4j.spi.LocationInfo;
